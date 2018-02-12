@@ -11,6 +11,6 @@ I'm a fan of [KISS principles](https://en.wikipedia.org/wiki/KISS_principle). I 
 
 So when I learned about [Jekyll](http://jekyllrb.com/), it seemed like a great alternative. Right now I'm writing this content in [Markdown](https://en.wikipedia.org/wiki/Markdown) using [Sublime Text 3](http://sublimetext.com) and hosted on [GitHub Pages](https://pages.github.com) using [Poole](https://github.com/poole) as a foundational setup for my [Jekyll](http://jekyllrb.com/) site.
 
-Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/escanton).
+Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/itscanton).
 
 Thanks for reading!

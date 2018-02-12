@@ -1,7 +1,7 @@
-This is the personal website of Sergio Cantón, hosted by [GitHub Pages](https://pages.github.com). You can find it at [https://escanton.github.io](https://escanton.github.io)
+This is the personal website of Sergio Cantón, hosted by [GitHub Pages](https://pages.github.com). You can find it at [https://itscanton.github.io](https://itscanton.github.io)
 
 ## Author
 
 **Sergio Cantón**
-- <https://github.com/escanton>
-- <https://twitter.com/escanton>
+- <https://github.com/itscanton>
+- <https://twitter.com/itscanton>
