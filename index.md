@@ -15,7 +15,7 @@ I studied:
 
 - MSc in Computer Science at [Open University of Catalonia](https://www.uoc.edu) (Thesis based in the area of Network Computers).
 - Advanced Computer Security Certificate (Advanced security skills on Linux, Firewalls, VPN, MITM Attacks, IDS, Crypting) at [University of Barcelona](https://www.ub.edu), Faculty of Physics.
-- Professional Scrum Master Certification (PSM) at [Scrum.org](https://www.scrum.org/user/177832).
+- Professional Scrum Master Certification (PSM) at [Scrum.org](https://www.scrum.org/user/177832)
 
 I'm focused on:
 
