@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 excerpt_separator: "<!-- more -->" # Adds read more feature
 
@@ -12,6 +12,9 @@ tagline:             Yet Another Dev
 url:                 https://itscanton.github.io
 paginate:            1
 baseurl:             ""
+
+# Plugins
+plugins:            [jekyll-paginate]
 
 # Assets
 #
@@ -24,7 +27,7 @@ sass:
 author:
   name:              Sergio Cantón
   url:               https://twitter.com/itscanton
-  email:             sx.canton@gmail.com
+  email:             scanton@protonmail.com
 
 # Custom vars
 version:             2.0.0
@@ -32,7 +35,8 @@ github:
   repo:              https://github.com/itscanton/itscanton.github.io
 
 pages_list:
-  About: '/about'
-  #Archive: '/archive'
-  #Feed: '/atom.xml'
-  Projects: '/projects'
+  Home:              '/'
+  About:             '/about'
+  #Archive:          '/archive'
+  #Feed:             '/atom.xml'
+  Projects:          '/projects'

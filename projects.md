@@ -1,15 +1,13 @@
 ---
 layout: page
-title:
+title: Projects
 ---
 
-## [kuamuru](https://kuamuru.com) - Visual Management Board on Cloud
+## [kuamuru](https://kuamuru.com) - Simple sticky notes on cloud
 
-<p class="message">
-  Simple color sticky notes on cloud
+![placeholder](/assets/images/kuamuru.jpg "kuamuru")
+  1. Create color stickers
+  2. Organize them over the board
+  3. Improve your productivity
 
-  Do you find yourself getting distracted from completing your important tasks? 
-  Do you feel like you’ve wasted your day?
-
-  Kuamuru makes it easy to organize your daily work
-</p>
+Have a look and let me know what you think!
