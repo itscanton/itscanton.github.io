@@ -13,22 +13,22 @@ I'm **just another developer**, probably like many of you. Currently working as 
 
 I studied:
 
-- MSc in Computer Science at [Open University of Catalonia](https://www.uoc.edu) (Thesis based in the area of Network Computers).
-- Advanced Computer Security Certificate (Advanced security skills on Linux, Firewalls, VPN, MITM Attacks, IDS, Crypting) at [University of Barcelona](https://www.ub.edu), Faculty of Physics.
-- Professional Scrum Master Certification (PSM) at [Scrum.org](https://www.scrum.org/user/177832)
+- Professional Scrum Master Certification (PSM I) at [Scrum.org](https://www.scrum.org/user/177832)
+- Advanced Computer Security Certificate (Advanced security skills on Linux, Firewalls, VPN, MITM Attacks, IDS, Crypting) at [University of Barcelona](https://www.ub.edu), Faculty of Physics
+- MSc in Computer Science at [Open University of Catalonia](https://www.uoc.edu) (Thesis based in the area of Network Computers)
+
 
 I'm focused on:
 
+- Search Engine Optimization
 - PHP
 - JavaScript
 - CSS3
 - HTML5
-- Laravel / Symfony
 - Scrum
-- MySQL / MariaDB
 - WordPress: Web Development & Malware Protection
 - Linux
 
-You can find me on [Twitter](https://twitter.com/itscanton), [Linkedin](https://linkedin.com/in/itscanton) or [Instagram](https://instagram.com/itscanton).
+You can find me on [Twitter](https://twitter.com/itscanton), [Instagram](https://instagram.com/itscanton) or [Linkedin](https://linkedin.com/in/itscanton).
 
 Thanks for reading!

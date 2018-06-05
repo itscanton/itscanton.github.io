@@ -9,7 +9,7 @@ excerpt_separator: "<!-- more -->" # Adds read more feature
 # Setup
 title:               Sergio Cantón
 tagline:             Yet Another Dev
-url:                 https://itscanton.github.io
+url:                 https://scanton.me
 paginate:            1
 baseurl:             ""
 
@@ -27,7 +27,7 @@ sass:
 author:
   name:              Sergio Cantón
   url:               https://twitter.com/itscanton
-  email:             scanton@protonmail.com
+  email:             scanton@pm.me
 
 # Custom vars
 version:             2.0.0
