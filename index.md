@@ -19,15 +19,12 @@ I studied:
 
 I'm focused on:
 
-- Web Application Development with PHP
+- Web Application Development with PHP, JavaScript & CSS
+- Democratizing Application Development [#NoCode](https://en.wikipedia.org/wiki/No-code_development_platform)
 - Laravel Framework
-- JavaScript
-- CSS3
-- HTML5
 - WordPress: Web Development & Malware Protection
 - Search Engine Optimization
-- Linux
-- Scrum
+- Linux Systems Administration
 
 You can find me on [Twitter](https://twitter.com/itscanton) or [Linkedin](https://linkedin.com/in/itscanton).
 

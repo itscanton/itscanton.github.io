@@ -7,7 +7,7 @@ title: Projects
 
 - URL: [https://ofipanel.com](https://ofipanel.com)
 - Released on: 2020
-- Description: Build efficient web applications. Without coding #NoCode
+- Description: Build efficient web applications. Without coding [#NoCode](https://en.wikipedia.org/wiki/No-code_development_platform)
 - Available languages: English, Spanish, Catalan
 
 ![placeholder](/assets/images/ofipanel.png "ofipanel")
