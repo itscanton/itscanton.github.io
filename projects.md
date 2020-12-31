@@ -3,7 +3,24 @@ layout: page
 title: Projects
 ---
 
-## [kuamuru](https://kuamuru.com) - Simple sticky notes on cloud
+## Ofipanel
+
+- URL: [https://ofipanel.com](https://ofipanel.com)
+- Released on: 2020
+- Description: Build efficient web applications. Without coding #NoCode
+- Available languages: English, Spanish, Catalan
+
+![placeholder](/assets/images/ofipanel.png "ofipanel")
+  1. Create color stickers
+  2. Organize them over the board
+  3. Improve your productivity
+
+## Kuamuru
+
+- URL: [https://kuamuru.com](https://kuamuru.com)
+- Released on: 2014
+- Description: Organize your daily work with drag'n drop color sticky notes
+- Available languages: English, Spanish, Catalan
 
 ![placeholder](/assets/images/kuamuru.jpg "kuamuru")
   1. Create color stickers

@@ -1,0 +1,12 @@
+I"�<p class="message">
+  Make it simple, easy and fun.
+</p>
+
+<p>I’m a fan of <a href="https://en.wikipedia.org/wiki/KISS_principle">KISS principles</a>. I really like the idea that my blog is a set of static files. I found other alternatives (like Joomla, Wordpress, etc.) heavy-weight for a simple blog content.</p>
+
+<p>So when I learned about <a href="http://jekyllrb.com/">Jekyll</a>, it seemed like a great alternative. Right now I’m writing this content in <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> using <a href="http://sublimetext.com">Sublime Text 3</a> and hosted on <a href="https://pages.github.com">GitHub Pages</a> using <a href="https://github.com/poole">Poole</a> as a foundational setup for my <a href="http://jekyllrb.com/">Jekyll</a> site.</p>
+
+<p>Have questions or suggestions? Feel free to <a href="https://twitter.com/itscanton">ask me on Twitter</a>.</p>
+
+<p>Thanks for reading!</p>
+:ET

@@ -8,8 +8,8 @@ excerpt_separator: "<!-- more -->" # Adds read more feature
 
 # Setup
 title:               Sergio Cantón
-tagline:             Yet Another Dev
-url:                 https://scanton.me
+tagline:             Yet Another dev
+url:                 https://scanton.dev
 paginate:            1
 baseurl:             ""
 
