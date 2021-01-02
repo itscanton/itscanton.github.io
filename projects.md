@@ -5,21 +5,21 @@ title: Projects
 
 ## Ofipanel
 
-- URL: [https://ofipanel.com](https://ofipanel.com)
+- Description: [#NoCode](https://en.wikipedia.org/wiki/No-code_development_platform) platform to build web applications without coding
 - Released on: 2020
-- Description: Build efficient web applications. Without coding [#NoCode](https://en.wikipedia.org/wiki/No-code_development_platform)
+- URL: [https://ofipanel.com](https://ofipanel.com)
 - Available languages: English, Spanish, Catalan
 
 ![placeholder](/assets/images/ofipanel.png "ofipanel")
-  1. Create color stickers
-  2. Organize them over the board
-  3. Improve your productivity
+  1. Create new View i.e. "Sales"
+  2. Associate different field types to your new View
+  3. Save and start storing data in your new View
 
 ## Kuamuru
 
-- URL: [https://kuamuru.com](https://kuamuru.com)
+- Description: A canvas to organize color sticky notes over it
 - Released on: 2014
-- Description: Organize your daily work with drag'n drop color sticky notes
+- URL: [https://kuamuru.com](https://kuamuru.com)
 - Available languages: English, Spanish, Catalan
 
 ![placeholder](/assets/images/kuamuru.jpg "kuamuru")
