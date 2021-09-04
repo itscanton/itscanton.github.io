@@ -20,10 +20,9 @@ I studied:
 I'm focused on:
 
 - Web Application Development with PHP, JavaScript & CSS
-- Democratizing Application Development with [#NoCode](https://en.wikipedia.org/wiki/No-code_development_platform)
+- Democratizing Application Development with [#NoCode](https://ofipanel.com)
 - Laravel Framework
 - WordPress Web Development & Malware Protection
-- Search Engine Optimization
 - Linux Systems Administration
 
 You can find me on [Twitter](https://twitter.com/itscanton) or [Linkedin](https://linkedin.com/in/itscanton).
