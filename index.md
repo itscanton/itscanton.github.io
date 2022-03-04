@@ -19,12 +19,12 @@ I studied:
 
 I'm focused on:
 
-- Web Application Development with PHP, JavaScript & CSS
-- Democratizing Application Development with [#NoCode](https://ofipanel.com)
+- Web Development with PHP, JavaScript & CSS
 - Laravel Framework
-- WordPress Web Development & Malware Protection
-- Linux Systems Administration
+- Building Efficient Web Applications with [Ofipanel](https://ofipanel.com) #NoCode
+- Cybersecurity
+- Maintaining/Improving Skills via [Side Projects](/projects)
 
-You can find me on [Twitter](https://twitter.com/itscanton) or [Linkedin](https://linkedin.com/in/itscanton).
+You can find me on [Twitter](https://twitter.com/sergiret) or [Linkedin](https://linkedin.com/in/itscanton).
 
 Thanks for reading!
