@@ -3,6 +3,15 @@ layout: page
 title: Projects
 ---
 
+## Factura Simple
+
+- Description: Accounting program to generate invoices in a easy way
+- Released on: 2022
+- Status: Active
+- URL: [https://facturasimple.es](https://facturasimple.es)
+- Available languages: English, Spanish, Catalan
+- Technologies: PHP, MariaDB, JavaScript, CSS
+
 ## Ofipanel
 
 - Description: [#NoCode](https://en.wikipedia.org/wiki/No-code_development_platform) platform to build web applications without coding
@@ -10,6 +19,7 @@ title: Projects
 - Status: Active
 - URL: [https://ofipanel.com](https://ofipanel.com)
 - Available languages: English, Spanish, Catalan
+- Technologies: PHP, Laravel, MariaDB, JavaScript, CSS
 
 ![placeholder](/assets/images/ofipanel.png "ofipanel")
   1. Create new View i.e. "Sales"
@@ -23,6 +33,7 @@ title: Projects
 - Status: Active
 - URL: [https://kuamuru.com](https://kuamuru.com)
 - Available languages: English, Spanish, Catalan
+- Technologies: PHP, MariaDB, JavaScript, Angular, CSS
 
 ![placeholder](/assets/images/kuamuru.jpg "kuamuru")
   1. Create color stickers
@@ -35,6 +46,7 @@ title: Projects
 - Released on: 2012
 - Status: Inactive
 - Available languages: English, Spanish, Catalan
+- Technologies: Python, MySQL
 
 ![placeholder](/assets/images/imnio.gif "imnio")
   1. Add Imnio mobile number to your contact list
