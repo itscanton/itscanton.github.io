@@ -9,7 +9,7 @@ Excuse me, but this history doesn't start with a typical:
   "My software obsession began when I was child with hours typing in programs on a Sinclair ZX80 or Spectrum."
 </div>
 
-I'm **just another developer**, probably like many of you. Currently working as an IT Manager in the Public Sector with years of experience in the management of the entire network infraestructure, including BSD and Linux servers, Vagrant, Virtualization, Firewalls, Backup and Web Development.
+I'm **just another developer**, probably like many of you. Currently working as an IT manager in the public sector with years of experience in the management of the entire network infraestructure, including BSD and Linux servers, vagrant, virtualization, firewalls and backup policies.
 
 I studied:
 
@@ -19,9 +19,14 @@ I studied:
 
 I'm focused on:
 
-- Web Development with PHP, JavaScript & CSS
-- Laravel Framework
-- Building Efficient Web Applications with [Ofipanel](https://ofipanel.com) #NoCode
+- Web development with PHP, JavaScript & CSS
+- Laravel framework
+- TDD
+- SQL
+- Linux servers
+- Vagrant
+- Docker
+- WordPress Anti-Malware Security
 
 You can find me on [Twitter](https://twitter.com/itscanton) or [Linkedin](https://linkedin.com/in/itscanton).
 
