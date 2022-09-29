@@ -1,16 +1,21 @@
 ---
 layout: page
-title: Projects
+title: (Side) Projects
 ---
 
 ## Factura Simple
 
-- Description: Accounting program to generate invoices in a easy way
+- Description: Accounting program to generate invoices in an easy way
 - Released on: 2022
 - Status: Active
 - URL: [https://facturasimple.es](https://facturasimple.es)
 - Available languages: English, Spanish, Catalan
 - Technologies: PHP, MariaDB, JavaScript, CSS
+
+![placeholder](/assets/images/facturasimple.png "facturasimple")
+  1. Add your company info (will be displayed in the invoice documents)
+  2. Create your first client
+  3. Select the newly created client, fill invoice information and generate new pdf invoice document automatically
 
 ## Ofipanel
 

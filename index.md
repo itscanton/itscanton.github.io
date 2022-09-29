@@ -28,6 +28,6 @@ I'm focused on:
 - Docker
 - WordPress Anti-Malware Security
 
-You can find me on [Twitter](https://twitter.com/itscanton) or [Linkedin](https://linkedin.com/in/itscanton).
+You can find me on [Twitter](https://twitter.com/muchocode) or [Linkedin](https://linkedin.com/in/itscanton).
 
 Thanks for reading!
