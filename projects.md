@@ -5,7 +5,7 @@ title: (Side) Projects
 
 ## Factura Simple
 
-- Description: Accounting program to generate invoices in an easy way
+- Description: Accounting web application to generate pdf invoices in an easy way
 - Released on: 2022
 - Status: Active
 - URL: [https://facturasimple.es](https://facturasimple.es)
