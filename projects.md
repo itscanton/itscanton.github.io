@@ -3,6 +3,19 @@ layout: page
 title: (Side) Projects
 ---
 
+## Website Monitoring Service
+
+- Description: Website monitoring service
+- Launch forecast: 2024 
+- Status: Development
+- Available languages: English
+- Technologies: PHP, Laravel, MariaDB, JavaScript, CSS
+
+![placeholder](/assets/images/wms.jpg "wms")
+  1. Select the monitor type i.e. "PING"
+  2. Add your website
+  3. Save and start receiving notifications when your website is down
+
 ## Factura Simple
 
 - Description: Accounting web application to generate pdf invoices in an easy way
