@@ -1,4 +1,4 @@
-This is the personal website of Sergio Cantón, hosted by [GitHub Pages](https://pages.github.com). You can find it at [https://scanton.me](https://scanton.me)
+This is the personal website of Sergio Cantón, hosted by [GitHub Pages](https://pages.github.com). You can find it at [https://scanton.dev](https://scanton.dev)
 
 ## Author
 
@@ -6,4 +6,3 @@ This is the personal website of Sergio Cantón, hosted by [GitHub Pages](https:/
 - <https://github.com/itscanton>
 - <https://twitter.com/itscanton>
 - <https://linkedin.com/in/itscanton>
-- <https://instagram.com/itscanton>
