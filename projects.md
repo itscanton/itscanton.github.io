@@ -3,24 +3,29 @@ layout: page
 title: (Side) Projects
 ---
 
+## PDF AI anonymizer
+
+- Description: AI web application designed to anonymize data inside PDF documents
+- Released on: 2025 
+- Status: Active
+- Available languages: English, Spanish, Catalan
+- Technologies: Python, FastAPI, Jinja2, PyMuPDF, spaCy NLP (NER), Ollama
+
 ## RBL Blacklist Check
 
 - Description: Monitor IP addresses and domains against most popular and commonly used DNS blacklists (RBLs)
 - Released on: 2025 
-- Status: active
+- Status: Active
+- URL: [https://rbl-check.scanton.dev](https://rbl-check.scanton.dev)
 - Available languages: English
 - Technologies: Python
-
-![placeholder](/assets/images/wms.jpg "wms")
-  1. Select the monitor type i.e. "PING"
-  2. Add your website
-  3. Save and start receiving notifications when your website is down
+![placeholder](/assets/images/rbl.png "rbl")
 
 ## Website Monitoring Service
 
 - Description: Website monitoring service
 - Released on: 2025 
-- Status: active
+- Status: Active
 - Available languages: English
 - Technologies: PHP, Laravel, MariaDB, JavaScript, CSS
 
@@ -33,8 +38,7 @@ title: (Side) Projects
 
 - Description: Accounting web application to generate pdf invoices in an easy way
 - Released on: 2022
-- Status: Active
-- URL: [https://facturasimple.es](https://facturasimple.es)
+- Status: Discontinued
 - Available languages: English, Spanish, Catalan
 - Technologies: PHP, MariaDB, JavaScript, CSS
 
@@ -61,8 +65,7 @@ title: (Side) Projects
 
 - Description: A canvas to organize color sticky notes over it
 - Released on: 2014
-- Status: Active
-- URL: [https://kuamuru.com](https://kuamuru.com)
+- Status: Discontinued
 - Available languages: English, Spanish, Catalan
 - Technologies: PHP, MariaDB, JavaScript, Angular, CSS
 
@@ -75,7 +78,7 @@ title: (Side) Projects
 
 - Description: Imnio - Virtual Assistant for WhatsApp
 - Released on: 2012
-- Status: Inactive
+- Status: Discontinued
 - Available languages: English, Spanish, Catalan
 - Technologies: Python, MySQL
 

@@ -9,7 +9,9 @@ Excuse me, but this history doesn't start with a typical:
   "My software obsession began when I was child with hours typing in programs on a Sinclair ZX80 or Spectrum."
 </div>
 
-I'm **just another developer**, probably like many of you. Currently working as an IT manager in the public sector with years of experience in the management of the entire network infraestructure, including BSD and Linux servers, vagrant, virtualization, firewalls and backup policies.
+<div style="text-align: justify">
+I'm **just another developer**, probably like many of you. Currently working as an IT manager in the public sector with years of experience in the management of the entire network infraestructure, including BSD and Linux servers, virtualization, firewalls and networking.
+</div>
 
 I studied:
 
@@ -19,7 +21,7 @@ I studied:
 
 I'm focused on:
 
-- AI and Machine Learning
+- AI and machine learning
 - Web development
 - Linux servers and virtualization
 - Docker
