@@ -3,11 +3,24 @@ layout: page
 title: (Side) Projects
 ---
 
+## RBL Blacklist Check
+
+- Description: Monitor IP addresses and domains against most popular and commonly used DNS blacklists (RBLs)
+- Released on: 2025 
+- Status: active
+- Available languages: English
+- Technologies: Python
+
+![placeholder](/assets/images/wms.jpg "wms")
+  1. Select the monitor type i.e. "PING"
+  2. Add your website
+  3. Save and start receiving notifications when your website is down
+
 ## Website Monitoring Service
 
 - Description: Website monitoring service
-- Launch forecast: 2024 
-- Status: Development
+- Released on: 2025 
+- Status: active
 - Available languages: English
 - Technologies: PHP, Laravel, MariaDB, JavaScript, CSS
 

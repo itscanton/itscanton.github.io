@@ -19,14 +19,11 @@ I studied:
 
 I'm focused on:
 
-- Web development with PHP, JavaScript & CSS
-- Laravel framework
-- TDD
-- SQL
-- Linux servers
-- Vagrant
+- AI and Machine Learning
+- Web development
+- Linux servers and virtualization
 - Docker
-- WordPress Anti-Malware Security
+- Security
 
 You can find me on [Twitter](https://twitter.com/itscanton) or [Linkedin](https://linkedin.com/in/itscanton).
 
